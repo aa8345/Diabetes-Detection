@@ -11,6 +11,3 @@ The program can:
 8.Query-Reply sending application
 9.Allow you to buy Medicine
 10.Medicine Bill
-11.Many More things are there
-
-There are many bugs also in some places so help me out in figuring them:)
